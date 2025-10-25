@@ -110,6 +110,24 @@ st.markdown(
 
 st.markdown("---")
 
+# ---------------------------
+# 오디오 (제목 바로 아래로 이동)
+# 파일명: "01. 한국제목.mp3"
+# ---------------------------
+num_str = str(lesson["lesson"]).zfill(2)
+try:
+    korean_title = lesson["title"].split("|")[1].strip()
+except IndexError:
+    korean_title = lesson["title"].strip()
+audio_filename = f"{num_str}. {korean_title}.mp3"
+audio_path = os.path.join(AUDIO_DIR, audio_filename)
+
+if os.path.exists(audio_path):
+    st.audio(audio_path)
+else:
+    st.warning(f"🎧 오디오 파일을 찾을 수 없습니다: {audio_filename}")
+
+st.markdown("<br>", unsafe_allow_html=True)
 
 # ---------------------------
 # 본문 섹션 (구간 사이 공백 1줄)
@@ -130,24 +148,6 @@ st.markdown("<br>", unsafe_allow_html=True)
 st.subheader("📝 말하기 연습 | Speaking Practice")
 for s in lesson.get("practice", []):
     st.markdown(f"- {s}")
-
-
-# ---------------------------
-# 오디오 (원래 로직 복구)
-# 파일명: "01. 한국제목.mp3"
-# ---------------------------
-num_str = str(lesson["lesson"]).zfill(2)
-try:
-    korean_title = lesson["title"].split("|")[1].strip()
-except IndexError:
-    korean_title = lesson["title"].strip()
-audio_filename = f"{num_str}. {korean_title}.mp3"
-audio_path = os.path.join(AUDIO_DIR, audio_filename)
-
-if os.path.exists(audio_path):
-    st.audio(audio_path)
-else:
-    st.warning(f"🎧 오디오 파일을 찾을 수 없습니다: {audio_filename}")
 
 
 # ---------------------------
@@ -192,6 +192,7 @@ def create_pdf_buffer(lesson_obj):
     return buf
 
 pdf_buffer = create_pdf_buffer(lesson)
+st.markdown("<br>", unsafe_allow_html=True)
 st.download_button(
     label="📄 학습지 PDF 다운로드",
     data=pdf_buffer,
