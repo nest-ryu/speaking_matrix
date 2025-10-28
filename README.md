@@ -1,3 +1,5 @@
+
+
 # 🗣 1분 영어 말하기 (Speaking Matrix)
 
 **1분 영어 말하기** 프로젝트는 30개의 짧은 영어 회화 레슨을
@@ -22,7 +24,7 @@ speaking_matrix/
 
 | 📄 **make_lessons_json.py** | `1분영어_01-30.pdf` → `lessons.json` 자동 생성 |
 | 🗣 **speaking_matrix.py** | JSON 기반 문장·번역·문법·연습·오디오 표시 |
-| 📘 **PDF 생성** | 각 Lesson 학습지 PDF를 즉시 생성하여 다운로드 가능 |
+| 📘 **PDF 생성**  | 각 Lesson 학습지 PDF를 즉시 생성하여 다운로드 가능 |
 | 🎧 **오디오 지원** | `audio/` 폴더의 `N. 제목.mp3` 형식 파일 자동 인식 |
 
 
@@ -52,4 +54,6 @@ streamlit run speaking_matrix.py
 PDF 생성 시 reportlab을 사용하며, 한글 폰트 깨짐 방지를 위해 기본 폰트는 HYSMyeongJo-Medium을 권장합니다.
 audio/ 폴더 안에 오디오 파일이 없을 경우, 앱에서 자동으로 경고 메시지를 표시합니다.
 make_lessons_json.py 실행 후 생성된 lessons.json은 speaking_matrix.py에서 자동으로 불러옵니다.
+
+
 
