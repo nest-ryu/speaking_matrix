@@ -154,38 +154,76 @@ for s in lesson.get("practice", []):
 # PDF 생성·다운로드 (서버 저장 없이 바로)
 # ---------------------------
 def create_pdf_buffer(lesson_obj):
+    # 한글 폰트 등록
     pdfmetrics.registerFont(UnicodeCIDFont('HYSMyeongJo-Medium'))
+    
+    # 스타일 정의 (한 페이지에 맞추기 위해 컴팩트하게)
     styles = getSampleStyleSheet()
-    for n in styles.byName:
-        styles[n].fontName = 'HYSMyeongJo-Medium'
-    styles.add(ParagraphStyle(name="KTitle", fontName="HYSMyeongJo-Medium",
-                              fontSize=16, leading=20, alignment=1))
+    styles.add(ParagraphStyle(
+        name='CompactTitle',
+        fontName='HYSMyeongJo-Medium',
+        fontSize=13,
+        leading=16,
+        spaceAfter=10,
+        alignment=1  # 가운데 정렬
+    ))
+    styles.add(ParagraphStyle(
+        name='CompactHeading',
+        fontName='HYSMyeongJo-Medium',
+        fontSize=10,
+        leading=14,
+        spaceAfter=6,
+        textColor='#333333'
+    ))
+    styles.add(ParagraphStyle(
+        name='CompactBody',
+        fontName='HYSMyeongJo-Medium',
+        fontSize=9,
+        leading=13,
+        spaceAfter=8
+    ))
+    
     buf = BytesIO()
-    doc = SimpleDocTemplate(buf, pagesize=A4,
-                            rightMargin=40, leftMargin=40, topMargin=50, bottomMargin=50)
+    doc = SimpleDocTemplate(
+        buf, 
+        pagesize=A4,
+        rightMargin=50, 
+        leftMargin=50, 
+        topMargin=40, 
+        bottomMargin=40
+    )
     story = []
-
-    def add(txt, style="BodyText", space=8):
-        story.append(Paragraph(txt, styles[style])); story.append(Spacer(1, space))
 
     # 제목
     t_en, t_ko = lesson_obj["title"], ""
     if "|" in t_en:
-        p = t_en.split("|", 1); t_en, t_ko = p[0].strip(), p[1].strip()
-    full_title = f"Lesson {lesson_obj['lesson']:02d} — {t_en}" + (f" | {t_ko}" if t_ko else "")
-    add(f"<b>{full_title}</b>", "KTitle", 14)
+        p = t_en.split("|", 1)
+        t_en, t_ko = p[0].strip(), p[1].strip()
+    full_title = f"<b>Lesson {lesson_obj['lesson']:02d} &mdash; {t_en}" + (f" | {t_ko}</b>" if t_ko else "</b>")
+    story.append(Paragraph(full_title, styles['CompactTitle']))
+    story.append(Spacer(1, 8))
 
-    add("<b>🗣 영어 문장 | English Sentences</b>")
-    add(lesson_obj["english"].replace("\n", "<br/>"))
-
-    add("<b>🇰🇷 한국어 번역 | Korean Translation</b>")
-    add(f"<font color='gray'>{lesson_obj['korean'].replace('\n', '<br/>')}</font>")
-
-    add("<b>💡 문법·표현 포인트 | Grammar & Expressions</b>")
-    for g in lesson_obj.get("grammar", []): add(f"- {g}")
-
-    add("<b>📝 말하기 연습 | Speaking Practice</b>")
-    for s in lesson_obj.get("practice", []): add(f"- {s}")
+    # 영어 문장
+    story.append(Spacer(1, 20))
+    story.append(Paragraph("<b>영어 문장 | English Sentences</b>", styles['CompactHeading']))
+    story.append(Paragraph(lesson_obj["english"].replace("\n", "<br/>"), styles['CompactBody']))
+    
+    # 한국어 번역
+    story.append(Spacer(1, 15))
+    story.append(Paragraph("<b>한국어 번역 | Korean Translation</b>", styles['CompactHeading']))
+    story.append(Paragraph(lesson_obj["korean"].replace("\n", "<br/>"), styles['CompactBody']))
+    
+    # 문법·표현 포인트
+    story.append(Spacer(1, 15))
+    story.append(Paragraph("<b>문법&middot;표현 포인트 | Grammar &amp; Expressions</b>", styles['CompactHeading']))
+    grammar_text = "<br/>".join([f"&bull; {g}" for g in lesson_obj.get("grammar", [])])
+    story.append(Paragraph(grammar_text, styles['CompactBody']))
+    
+    # 말하기 연습
+    story.append(Spacer(1, 15))
+    story.append(Paragraph("<b>말하기 연습 | Speaking Practice</b>", styles['CompactHeading']))
+    practice_text = "<br/>".join([f"&bull; {s}" for s in lesson_obj.get("practice", [])])
+    story.append(Paragraph(practice_text, styles['CompactBody']))
 
     doc.build(story)
     buf.seek(0)
