@@ -2,35 +2,39 @@
   {
     "lesson": 1,
     "title": "Jogging | 조깅",
-    "english": "I jog in the park early in the morning.\nThe park is behind my house.\nI started to jog a year ago.\nI did it to lose weight, but now I do it for my health.\nWhen I first started jogging, I used to feel tired.\nNow I feel more tired if I don't jog.\nI jog for an hour a day.\nIt makes me feel refreshed.\nJogging refreshes my mind and body.",
-    "korean": "아침 일찍 공원에서 조깅합니다.\n공원은 우리 집 뒤에 있어요.\n1 년 전에 조깅하기 시작했죠.\n살을 빼려고 시작했지만 지금은 건강을 위해 합니다.\n처음 조깅을 시작했을 때는 피곤했어요.\n이제는 조깅을 안 하면 더 피곤해요.\n하루에 한 시간 동안 조깅합니다.\n그렇게 하면 기분이 상쾌해지죠.\n조깅이 몸과 마음을 상쾌하게 해줍니다.",
+    "english": "I jog in the park early in the morning.\nThe park is behind my house.\nI started to jog a year ago.\nI did it to lose weight, but now I do it for my health.\nWhen I first started jogging, I used to feel tired.\nNow I feel more tired if I don’t jog.\nI jog for an hour a day.\nIt makes me feel refreshed.\nI don’t like working out at a gym because I need fresh air when I\nexercise.\nJogging refreshes my mind and body.",
+    "korean": "아침 일찍 공원에서 조깅합니다.\n공원은 우리 집 뒤에 있어요.\n1년 전에 조깅하기 시작했죠.\n살을 빼려고 시작했지만 지금은 건강을 위해 합니다.\n처음 조깅을 시작했을 때는 피곤했어요.\n이제는 조깅을 안 하면 더 피곤해요.\n하루에 한 시간 동안 조깅합니다.\n그렇게 하면 기분이 상쾌해지죠.\n운동할 때 신선한 공기가 필요하기 때문에 헬스클럽에서 운동하는 것은 안\n좋아해요.\n조깅이 몸과 마음을 상쾌하게 해줍니다.",
     "grammar": [
-      "•  used  to  +  동사원형 →  예전에 ~하곤 했다",
-      "•  for  my  health  →  목적 표현 (‘건강을 위해’)",
-      "•  refresh  /  refreshed  /  refreshing  →  상쾌하게 하다 / 상쾌한",
-      "•  feel  tired  ↔  feel  refreshed  →  상태 대비 표현"
+      "• used to + 동사원형 → (과거에) ~하곤 했다",
+      "• feel tired → 피곤함을 느끼다",
+      "• make someone feel ~ → ~하게 만들다",
+      "• refresh one’s mind and body → 몸과 마음을 상쾌하게 하다",
+      "• work out at a gym → 헬스장에서 운동하다"
     ],
     "practice": [
-      "•  하루에 한 시간씩 조깅합니다.  →  I  jog  for  an  hour  a  day.",
-      "•  조깅은 나를 상쾌하게 만들어 줍니다.  →  Jogging  refreshes  me.",
-      "•  예전엔 피곤했지만 지금은 아니에요.  →  I  used  to  feel  tired,  but  not  anymore."
+      "• 저는 아침 일찍 조깅해요. → I jog early in the morning.",
+      "• 조깅이 건강에 좋아요. → Jogging is good for my health.",
+      "• 헬스장에서 운동하는 것보다 공원에서 운동하는 게 좋아요. → I prefer",
+      "exercising in the park to working out at a gym."
     ]
   },
   {
     "lesson": 2,
     "title": "My Neighborhood | 우리 동네",
-    "english": "There is a park in my neighborhood.\nIt is close to my house and a 10-minute walk from my house.\nI go to the park to take a walk every evening.\nI go during the week because it's too crowded on weekends.\nThe library is next to the park.\nThere is a parking lot in front of the library.\nIt is convenient to park my car there.\nThe grocery store is a couple of blocks away from the library.\nThen I don't have to worry about getting a parking ticket.",
-    "korean": "우리 동네에는 공원이 하나 있습니다.\n우리 집에서 걸어서 10 분 거리에 있어요.\n저는 매일 저녁 산책하러 공원에 갑니다.\n주말엔 너무 붐벼서 평일에 가요.\n도서관은 공원 옆에 있고, 도서관 앞에는 주차장이 있습니다.\n그곳에 차를 대면 편리하죠.\n식료품점은 도서관에서 몇 블록 떨어져 있어요.\n그럼 주차 위반 딱지를 걱정할 필요가 없어요.",
+    "english": "There is a park in my neighborhood.\nIt is close to my house and a 10-minute walk from my house.\nI go to the park to take a walk every evening.\nI go during the week because it’s too crowded on weekends.\nThe library is next to the park.\nThere is a parking lot in front of the library.\nIt is convenient to park my car there.\nThe grocery store is a couple of blocks away from the library.\nI park my car at the library and go grocery shopping.\nThen I don’t have to worry about getting a parking ticket.",
+    "korean": "우리 동네에는 공원이 하나 있습니다.\n우리 집과 가까운데 걸어서 10분이에요.\n저는 산책하러 매일 저녁 공원에 갑니다.\n주말에는 너무 붐비기 때문에 주중에 가요.\n도서관은 공원 옆에 있습니다.\n도서관 앞에는 주차장이 있죠.\n그곳에 차를 대면 편리합니다.\n식료품점은 도서관에서 몇 블록 떨어져 있습니다.\n저는 도서관에 차를 세워 놓고 장을 보러 가죠.\n그러면 주차 위반 딱지를 떼일까 걱정할 필요가 없어요.",
     "grammar": [
-      "•  There  is  /  are  +  명사 →  ~이 있다",
-      "•  a  couple  of  blocks  away  →  몇 블록 떨어진",
-      "•  have  to  worry  about  ~  →  ~에 대해 걱정하다",
-      "•  It  is  convenient  to  ~  →  ~하기 편리하다"
+      "• There is / There are → ~이 있다",
+      "• take a walk → 산책하다",
+      "• be crowded → 붐비다",
+      "• in front of → ~ 앞에",
+      "• don’t have to worry about ~ → ~을 걱정할 필요가 없다"
     ],
     "practice": [
-      "•  우리 동네엔 공원이 있어요.  →  There  is  a  park  in  my  neighborhood.",
-      "•  공원은 우리 집 근처에 있어요.  →  The  park  is  close  to  my  house.",
-      "•  도서관 앞에 주차하는 것이 편리해요.  →  It  is  convenient  to  park  in  front  of  the  library."
+      "• 우리 동네에는 공원이 있어요. → There is a park in my neighborhood.",
+      "• 도서관 앞에 주차할 수 있어요. → I can park in front of the library.",
+      "• 주차 위반 딱지를 걱정할 필요가 없어요. → I don’t have to worry about",
+      "getting a parking ticket."
     ]
   },
   {
@@ -39,481 +43,533 @@
     "english": "I went grocery shopping yesterday.\nThe store was crowded because it was Saturday.\nI felt exhausted because there were too many people in the store.\nI was standing in line to pay for the groceries for a long time.\nGoing grocery shopping on weekends is my least favorite thing.\nIt took me an hour just to purchase a few necessities.",
     "korean": "어제는 장을 보러 갔습니다.\n토요일이라서 가게가 붐볐어요.\n사람이 너무 많아서 지쳤습니다.\n식료품을 계산하려고 줄을 오래 섰습니다.\n주말에 장보는 건 제가 가장 싫어하는 일이에요.\n필요한 것 몇 가지 사는 데 한 시간이 걸렸습니다.",
     "grammar": [
-      "•  go  +  ~ing  →  ~하러 가다 (go shopping, go jogging)",
-      "•  stand  in  line  →  줄을 서다",
-      "•  my  least  favorite  ~  →  가장 싫어하는 ~",
-      "•  It  took  me  +  시간 + to 동사 →  ~하는 데 …가 걸렸다"
+      "• go + -ing → ~하러 가다 (go shopping, go jogging)",
+      "• stand in line → 줄을 서다",
+      "• my least favorite ~ → 가장 싫어하는 ~",
+      "• It took me + 시간 + to 동사 → ~하는 데 …가 걸렸다"
     ],
     "practice": [
-      "•  나는 어제 장보러 갔어요.  →  I  went  grocery  shopping  yesterday.",
-      "•  주말엔 사람들이 너무 많아요.  →  There  are  too  many  people  on  weekends.",
-      "•  줄 서 있는 건 싫어요.  →  I  hate  standing  in  line."
+      "• 나는 어제 장보러 갔어요. → I went grocery shopping yesterday.",
+      "• 주말엔 사람들이 너무 많아요. → There are too many people on weekends.",
+      "• 줄 서 있는 건 싫어요. → I hate standing in line."
     ]
   },
   {
     "lesson": 4,
     "title": "Writing | 글쓰기",
-    "english": "I returned home after grocery shopping.\nI felt exhausted, so I wanted to have some quiet time alone.\nMy hobby is writing.\nI used to read a lot when I was young.\nAs I grew up, I started to prefer writing.\nIt is also a good way to kill some time.\nI write for about three hours once a week.\nWriting makes me feel relaxed.\nWhen I write, it releases my stress.\nMy goal is to publish a book in the future.",
-    "korean": "장을 보고 난 후 집에 왔습니다.\n지쳐서 혼자 조용한 시간을 갖고 싶었죠.\n제 취미는 글쓰기입니다.\n어렸을 때는 책을 많이 읽곤 했죠.\n크면서는 쓰는 것이 더 좋아지기 시작했어요.\n글 쓰는 건 시간 보내기에도 좋은 방법이죠.\n일주일에 한 번 세 시간 정도 글을 씁니다.\n글을 쓰면 마음이 편안해져요.\n글을 쓸 때 스트레스가 풀립니다.\n제 목표는 나중에 책을 출간하는 것입니다.",
+    "english": "I returned home after grocery shopping.\nI felt exhausted, so I wanted to have some quiet time alone.\nMy hobby is writing.\nI used to read a lot when I was young.\nAs I grew up, I started to prefer writing.\nIt is also a good way to kill some time.\nI write for about three hours once a week.\nWriting makes me feel relaxed.\nWhen I write, it releases my stress.\nI sometimes write while listening to music.\nMy goal is to publish a book in the future.",
+    "korean": "장을 보고 난 후 집에 왔습니다.\n저는 지쳐서 혼자 조용한 시간을 갖고 싶었죠.\n제 취미는 글쓰기입니다.\n어렸을 때는 책을 많이 읽곤 했죠.\n크면서는 쓰는 것이 더 좋아지기 시작했어요.\n글 쓰는 건 시간 보내기에도 좋은 방법이죠.\n일주일에 한 번 세 시간 정도 글을 씁니다.\n글을 쓰면 마음이 편안해져요.\n글을 쓸 때 스트레스가 풀립니다.\n가끔은 음악을 들으면서 글을 써요.\n제 목표는 나중에 책을 출간하는 것입니다.",
     "grammar": [
-      "•  used  to  +  동사원형 →  예전에 ~하곤 했다",
-      "•  prefer  +  ~ing  →  ~하는 것을 더 좋아하다",
-      "•  kill  time  →  시간을 보내다",
-      "•  publish  a  book  →  책을 출간하다"
+      "• used to + 동사원형 → (과거에) ~하곤 했다",
+      "• prefer + -ing → ~을 더 좋아하다",
+      "• kill time → 시간을 때우다, 보내다",
+      "• release one’s stress → 스트레스를 풀다",
+      "• publish a book → 책을 출간하다"
     ],
     "practice": [
-      "•  나는 글쓰기를 좋아합니다.  →  I  like  writing.",
-      "•  일주일에 한 번 글을 씁니다.  →  I  write  once  a  week.",
-      "•  글쓰기는 내 스트레스를 풀어줘요.  →  Writing  releases  my  stress."
+      "• 제 취미는 글쓰기예요. → My hobby is writing.",
+      "• 저는 주로 주말에 글을 씁니다. → I usually write on weekends.",
+      "• 글을 쓰면 마음이 편안해져요. → Writing makes me feel relaxed."
     ]
   },
   {
     "lesson": 5,
     "title": "Housework & Exams | 집안일과 시험",
-    "english": "After writing for about two hours, I helped my mom with the house chores.\nMy favorite housework is dishwashing, but my least favorite is taking out the garbage.\nIt smells so bad.\nAfter taking out the garbage, I turned on the TV and watched some shows for about\nthree hours.\nI realized that I had an exam the next day.\nI was worried about failing the exam.\nI studied until 3 a.m.\nI took the exam today and I am satisfied with how I did.\nI think I am good at memorization.",
-    "korean": "두 시간 정도 글을 쓴 후 엄마를 도와 집안일을 했어요.\n가장 좋아하는 집안일은 설거지이지만 가장 싫어하는 것은 쓰레기를 내다 버리는\n것입니다.\n냄새가 너무 나요.\n쓰레기를 내다 버린 후 TV 를 켜고 약 세 시간 동안 프로그램을 봤어요.\n다음 날 시험이 있는 걸 깨달았죠.\n시험을 망칠까 봐 걱정됐어요.\n새벽 3 시까지 공부했습니다.\n오늘 시험을 봤는데 만족스러웠어요.\n저는 암기를 잘하는 것 같아요.",
+    "english": "After writing for about two hours, I helped my mom with the house chores.\nMy favorite housework is dishwashing, but my least favorite house chore\nis taking out the garbage.\nIt smells so bad.\nAfter taking out the garbage, I turned on the TV.\nI sat down and watched some shows for about three hours.\nI realized that I had an exam the next day.\nI was worried about failing the exam.\nI studied until 3 a.m.\nI took the exam today, and I am satisfied with how I did.\nI think I am good at memorization.",
+    "korean": "두 시간 정도 글을 쓴 후 엄마를 도와 집안일을 했어요.\n제가 가장 좋아하는 집안일은 설거지이지만, 가장 싫어하는 것은 쓰레기를 내다\n버리는 것입니다.\n냄새가 너무 나요.\n쓰레기를 내다 버린 후 TV를 켰어요.\n앉아서 약 세 시간 동안 프로그램을 봤습니다.\n다음 날 시험이 있는 것을 깨달았어요.\n시험을 망칠까 봐 걱정이 됐죠.\n새벽 3시까지 공부했습니다.\n오늘 시험을 봤는데 제 자신이 만족할 정도로 봤습니다.\n저는 암기를 잘하는 것 같아요.",
     "grammar": [
-      "•  help  +  사람 + with + 명사 →  ~를 ~하는 데 도와주다",
-      "•  be  worried  about  ~  →  ~을 걱정하다",
-      "•  be  satisfied  with  ~  →  ~에 만족하다",
-      "•  be  good  at  ~  →  ~을 잘하다"
+      "• house chores / housework → 집안일",
+      "• take out the garbage → 쓰레기를 내다 버리다",
+      "• be worried about ~ → ~을 걱정하다",
+      "• be satisfied with → ~에 만족하다",
+      "• be good at ~ → ~을 잘하다"
     ],
     "practice": [
-      "•  나는 엄마를 도와 설거지를 했어요.  →  I  helped  my  mom  with  the  dishes.",
-      "•  나는 시험을 망칠까 걱정했어요.  →  I  was  worried  about  failing  the  exam.",
-      "•  나는 암기를 잘해요.  →  I  am  good  at  memorization."
+      "• 저는 엄마를 도와 집안일을 했어요. → I helped my mom with the house",
+      "chores.",
+      "• 저는 쓰레기를 내다 버리는 게 싫어요. → I hate taking out the garbage.",
+      "• 저는 암기를 잘해요. → I’m good at memorization."
     ]
   },
   {
     "lesson": 6,
     "title": "Shopping | 쇼핑",
-    "english": "After taking the exam, I went shopping to release some stress.\nWhen I feel stressed during the week, I go shopping after school.\nWhen I was young, I used to go shopping with my mom.\nAs I grew up, I felt comfortable shopping alone.\nI go shopping once a month.\nWhen I go, I spend about two hours shopping.\nI used to spend about 100,000 won each time, but recently I've been trying to spend less\nthan that.\nI always try clothes on before I buy them.\nThen I don't have to worry about buying the wrong size.",
-    "korean": "시험을 본 후 스트레스를 풀기 위해 쇼핑하러 갔어요.\n주중에 스트레스를 받으면 방과 후에 쇼핑하러 갑니다.\n어렸을 땐 엄마와 함께 쇼핑하러 가곤 했어요.\n크면서는 혼자 쇼핑하는 것이 편해졌습니다.\n한 달에 한 번 쇼핑하러 가요.\n가면 두 시간 정도를 쇼핑에 씁니다.\n예전엔 갈 때마다 십만 원 정도를 썼지만 최근엔 덜 쓰려고 합니다.\n항상 옷을 사기 전에 입어 봐요.\n그러면 사이즈를 잘못 살까 봐 걱정하지 않아도 됩니다.",
+    "english": "After taking the exam, I went shopping to release some stress.\nWhen I feel stressed during the week, I go shopping after school.\nWhen I was young, I used to go shopping with my mom.\nAs I grew up, I felt comfortable shopping alone.\nI go shopping once a month.\nWhen I go, I spend about two hours shopping.\nI used to spend about 100,000 won each time, but recently I’ve been\ntrying to spend less than that.\nI always try clothes on before I buy them.\nThen I don’t have to worry about buying the wrong size.",
+    "korean": "시험을 본 후 스트레스를 풀기 위해 쇼핑하러 갔어요.\n주중에 스트레스를 받으면 방과 후에 쇼핑하러 갑니다.\n어렸을 때는 엄마와 함께 쇼핑하러 가곤 했죠.\n크면서는 혼자 쇼핑하는 것이 편해졌어요.\n한 달에 한 번 쇼핑하러 가요.\n가면 두 시간 정도를 써요.\n예전에는 갈 때마다 십만 원 정도를 썼는데, 요즘은 그보다 덜 쓰려고 노력해요.\n저는 옷을 사기 전에 항상 입어 봅니다.\n그러면 잘못된 사이즈를 살까 봐 걱정할 필요가 없어요.",
     "grammar": [
-      "•  used  to  +  동사원형 →  예전에 ~하곤 했다",
-      "•  feel  comfortable  +  ~ing  →  ~하는 것이 편하다",
-      "•  try  on  →  옷을 입어보다",
-      "•  worry  about  ~  →  ~에 대해 걱정하다"
+      "• release stress → 스트레스를 풀다",
+      "• used to + 동사원형 → (과거에) ~하곤 했다",
+      "• be comfortable ~ing → ~하는 것이 편하다",
+      "• try on clothes → 옷을 입어보다",
+      "• don’t have to worry about ~ → ~을 걱정할 필요가 없다"
     ],
     "practice": [
-      "•  나는 스트레스를 풀기 위해 쇼핑하러 갔어요.  →  I  went  shopping  to  release  some",
+      "• 스트레스를 풀기 위해 쇼핑하러 갔어요. → I went shopping to release some",
       "stress.",
-      "•  옷을 살 때 항상 입어봐요.  →  I  always  try  clothes  on  before  I  buy  them.",
-      "•  혼자 쇼핑하는 것이 편해요.  →  I  feel  comfortable  shopping  alone."
+      "• 저는 한 달에 한 번 쇼핑해요. → I go shopping once a month.",
+      "• 옷을 사기 전에 입어봐요. → I try on clothes before I buy them."
     ]
   },
   {
     "lesson": 7,
     "title": "Seeing a Doctor | 병원 가기",
-    "english": "I came home after shopping one day, but I suddenly felt very tired.\nI had a fever, so my mom told me to go see a doctor.\nThe doctor's office is downtown.\nI have been seeing him since I was in elementary school.\nI feel comfortable in his office.\nI was worried about getting a shot, but he didn't give me one.\nHe told me to go home and get some rest.\nWhen I got home, I took the medicine that the doctor prescribed me and went to bed\nright away.",
-    "korean": "쇼핑 후 집에 왔는데 갑자기 너무 피곤했어요.\n열이 나서 엄마가 병원에 가보라고 하셨어요.\n병원은 시내에 있습니다.\n그 의사 선생님은 제가 초등학교 때부터 보던 분이에요.\n진료실에서는 마음이 편안해요.\n주사를 맞을까 걱정했지만 선생님은 주사를 놓지 않으셨어요.\n집에 가서 쉬라고 하셨습니다.\n집에 도착해서는 처방받은 약을 먹고 바로 잠자리에 들었어요.",
+    "english": "I came home after shopping one day, but I suddenly felt very tired.\nI had a fever, so my mom told me to go see a doctor.\nThe doctor’s office is downtown.\nI have been seeing him since I was in elementary school.\nI feel comfortable in his office.\nI was worried about getting a shot, but he didn’t give me one.\nHe told me to go home and get some rest.\nWhen I got home, I took the medicine that the doctor prescribed me and\nwent to bed right away.",
+    "korean": "언젠가는 쇼핑 후 집에 왔는데 갑자기 너무 피곤했어요.\n열이 나니까 엄마가 병원에 가보라고 하셨습니다.\n병원은 시내에 있어요.\n저는 그 의사 선생님을 초등학교 때부터 봐왔습니다.\n선생님 진료실에서는 마음이 편안해요.\n저는 주사를 맞을까 봐 걱정했는데 선생님께서 주사는 놓지 않으셨어요.\n선생님은 집에 가서 쉬라고 하셨습니다.\n집에 도착해서는 선생님이 처방해 주신 약을 먹고 바로 잠자리에 들었죠.",
     "grammar": [
-      "•  see  a  doctor  →  의사를 보다",
-      "•  be  worried  about  ~  →  ~에 대해 걱정하다",
-      "•  get  some  rest  →  휴식을 취하다",
-      "•  take  (the)  medicine  →  약을 복용하다"
+      "• see a doctor → 병원에 가다 / 의사 진료를 받다",
+      "• be worried about ~ → ~을 걱정하다",
+      "• prescribe medicine → 약을 처방하다",
+      "• get some rest → 휴식을 취하다",
+      "• right away → 곧바로"
     ],
     "practice": [
-      "•  병원에 가보라고 하셨어요.  →  My  mom  told  me  to  go  see  a  doctor.",
-      "•  초등학교 때부터 보던 의사예요.  →  I  have  been  seeing  him  since  I  was  in  elementary",
-      "school.",
-      "•  약을 먹고 바로 잤어요.  →  I  took  the  medicine  and  went to bed right away."
+      "• 저는 병원에 갔어요. → I went to see a doctor.",
+      "• 그는 약을 처방해 줬어요. → He prescribed me some medicine.",
+      "• 집에 와서 바로 쉬었어요. → I went home and got some rest right away."
     ]
   },
   {
     "lesson": 8,
     "title": "Coffee | 커피",
-    "english": "I eat lunch at around noon on weekends.\nThen I go to a coffee shop in my neighborhood and drink a cup of coffee.\nI usually drink coffee from a vending machine during the week and I drink coffee at a\ncoffee shop on weekends.\nActually, I love to drink coffee alone.\nHowever, sometimes I can't fall asleep after drinking coffee, so I rarely drink coffee at\nnight.\nI drank coffee last night and couldn't fall asleep, so I watched TV in bed.\nI ended up falling asleep at around 3 a.m.",
-    "korean": "주말에는 정오쯤에 점심을 먹습니다.\n그런 다음 동네 커피숍에 가서 커피를 한 잔 마십니다.\n주중에는 보통 자판기 커피를 마시고 주말에는 커피숍에서 커피를 마십니다.\n사실 혼자 커피 마시는 걸 무척 좋아해요.\n하지만 커피를 마시고 나면 이따금 잠을 잘 못 이루어서 밤에는 거의 마시지 않습니다.\n어젯밤에 커피를 마셨더니 잠이 안 와서 침대에서 TV 를 봤어요.\n결국 새벽 3 시쯤 돼서야 잠이 들었습니다.",
+    "english": "I eat lunch at around noon on weekends.\nThen I go to a coffee shop in my neighborhood and drink a cup of coffee.\nI usually drink coffee from a vending machine during the week, and I drink\ncoffee at a coffee shop on weekends.\nActually, I love to drink coffee alone.\nHowever, sometimes I can’t fall asleep after drinking coffee, so I rarely\ndrink coffee at night.\nI drank coffee last night and couldn’t fall asleep, so I watched TV in bed.\nI ended up falling asleep at around 3 a.m.",
+    "korean": "주말에는 정오쯤에 점심을 먹습니다.\n그러고 나서 동네 커피숍에 가서 커피를 한 잔 마시죠.\n주중에는 보통 자판기 커피를 마시고 주말에는 커피숍에서 커피를 마십니다.\n사실 혼자 커피 마시는 걸 무척 좋아해요.\n하지만 커피를 마시고 나면 이따금 잠을 잘 못 이룰 때도 있어서 밤에는 거의 안\n마시죠.\n어젯밤에 커피를 마셨더니 잠이 안 와서 침대에서 TV를 봤습니다.\n결국 새벽 3시쯤 돼서야 잠이 들었어요.",
     "grammar": [
-      "•  at  around  ~  →  ~쯤에",
-      "•  fall  asleep  →  잠이 들다",
-      "•  end  up  ~ing  →  결국 ~하게 되다",
-      "•  rarely  /  usually  →  빈도 부사"
+      "• at around ~ → ~쯤에",
+      "• during the week → 주중에",
+      "• can’t fall asleep → 잠이 안 오다",
+      "• end up ~ing → 결국 ~하게 되다",
+      "• rarely → 거의 ~않다"
     ],
     "practice": [
-      "•  주말에는 정오쯤 점심을 먹어요.  →  I  eat  lunch  at  around  noon on weekends.",
-      "•  어젯밤에 잠이 안 왔어요.  →  I  couldn't  fall  asleep  last  night.",
-      "•  결국 새벽 3 시에 잠들었어요.  →  I  ended  up  falling  asleep  at  around  3  a.m."
+      "• 주말에는 커피숍에 가요. → I go to a coffee shop on weekends.",
+      "• 혼자 커피 마시는 걸 좋아해요. → I like to drink coffee alone.",
+      "• 커피를 마시고 잠이 안 왔어요. → I couldn’t fall asleep after drinking",
+      "coffee."
     ]
   },
   {
     "lesson": 9,
     "title": "Seeing a Movie 1 | 영화 보기 1",
-    "english": "I went to see a movie with my friend Kim in the afternoon.\nIt was crowded.\nThe people sitting next to me were having a conversation during the movie.\nI think talking during a movie is very rude.\nI wanted to say something to them, but I didn't because I didn't want to make any\ntrouble.\nGoing to see a movie is fun, but I don't like it when something like this happens.\nIt really depends on the situation.",
-    "korean": "오후에 친구 Kim 과 영화를 보러 갔어요.\n사람이 많아 붐볐습니다.\n제 옆에 앉은 사람들이 영화 보는 동안 서로 이야기하더라고요.\n저는 영화 볼 때 이야기하는 건 정말 무례하다고 생각합니다.\n뭐라고 말하고 싶었지만 문제를 만들고 싶지 않아 참았어요.\n영화 보러 가는 건 재미있지만 이런 일이 생기면 싫습니다.\n정말 상황에 따라 달라요.",
+    "english": "I went to see a movie with my friend Kim in the afternoon.\nIt was crowded.\nThe people sitting next to me were having a conversation during the\nmovie.\nI think talking during a movie is very rude.\nI wanted to say something to them, but I didn’t because I didn’t want to\nmake any trouble.\nGoing to see a movie is fun, but I don’t like it when something like this\nhappens.\nIt really depends on the situation.",
+    "korean": "오후에는 친구 Kim과 영화를 보러 갔어요.\n사람이 많아 붐볐습니다.\n제 옆에 앉은 사람들이 영화 보는 동안 이야기를 나누었어요.\n저는 영화 볼 때 이야기하는 건 정말 무례하다고 생각합니다.\n그 사람들에게 뭐라고 말하고 싶었지만 문제를 만들고 싶지 않아서 하지 않았어요.\n영화를 보러 가는 것은 재미있지만 이런 일이 생길 때는 싫습니다.\n정말 상황에 따라 달라요.",
     "grammar": [
-      "•  go  to  see  a  movie  →  영화를 보러 가다",
-      "•  have  a  conversation  →  대화를 나누다",
-      "•  be  crowded  /  be  rude  →  상태 표현",
-      "•  depend  on  ~  →  ~에 달려 있다"
+      "• go (to) see a movie → 영화를 보러 가다",
+      "• be crowded → 붐비다",
+      "• have a conversation → 이야기를 나누다",
+      "• talk during a movie → 영화 보는 중에 이야기하다",
+      "• depend on the situation → 상황에 따라 다르다"
     ],
     "practice": [
-      "•  오후에 영화를 보러 갔어요.  →  I  went  to  see  a  movie  in  the  afternoon.",
-      "•  영화 중에 말하는 건 무례해요.  →  Talking  during  a  movie  is  rude.",
-      "•  그건 상황에 따라 달라요.  →  It  depends  on  the  situation."
+      "• 저는 오후에 친구와 영화를 보러 갔어요. → I went to see a movie with my",
+      "friend in the afternoon.",
+      "• 영화 볼 때 이야기하는 건 정말 무례해요. → Talking during a movie is very",
+      "rude.",
+      "• 상황에 따라 달라요. → It depends on the situation."
     ]
   },
   {
     "lesson": 10,
     "title": "Seeing a Movie 2 | 영화 보기 2",
-    "english": "I normally watch movies twice a month.\nI watch various kinds of movies and it depends on my mood.\nI used to watch horror movies only, but I also enjoy action movies nowadays.\nI like watching movies because it provides me with an escape.\nI usually watch movies with my friends on weekends.\nThe closest movie theater is between the grocery store and the pharmacy.\nI spend 10,000 won to buy popcorn when watching a movie.\nAfter watching a movie, my friends and I go to a nearby restaurant and have dinner.\nIt is fun to go see a movie with my friends.",
-    "korean": "보통 한 달에 두 번 영화를 봅니다.\n다양한 종류의 영화를 보고, 기분에 따라 달라요.\n예전에는 공포 영화만 봤는데 요즘은 액션 영화도 즐겨 봐요.\n영화는 제게 현실 도피처가 되어 줍니다.\n주말에는 보통 친구들과 영화를 봐요.\n가장 가까운 영화관은 식료품점과 약국 사이에 있어요.\n영화 볼 때 팝콘 사는 데 만 원을 씁니다.\n영화를 보고 나서는 근처 식당에 가서 저녁을 먹습니다.\n친구들과 영화 보러 가는 건 즐거워요.",
+    "english": "I normally watch movies twice a month.\nI watch various kinds of movies, and it depends on my mood.\nI used to watch horror movies only, but I also enjoy action movies\nnowadays.\nI like watching movies because it provides me with an escape.\nI usually watch movies with my friends on weekends.\nThe closest movie theater is between the grocery store and the pharmacy.\nI spend 10,000 won to buy popcorn when watching a movie.\nAfter watching a movie, my friends and I go to a nearby restaurant and\nhave dinner.\nIt is fun to go see a movie with my friends.",
+    "korean": "보통 한 달에 두 번 영화를 봅니다.\n다양한 종류의 영화를 보며 기분에 따라 달라요.\n예전에는 공포 영화만 봤지만 요즘에는 액션 영화도 즐깁니다.\n영화는 저에게 현실 도피처가 되어 줍니다.\n보통 주말에는 친구들과 영화를 봅니다.\n가장 가까운 영화관은 식료품점과 약국 사이에 있어요.\n영화 볼 때 팝콘 사려고 1만 원을 씁니다.\n영화를 본 후 친구들과 근처 식당에서 저녁을 먹습니다.\n친구들과 영화 보러 가는 건 즐거워요.",
     "grammar": [
-      "•  twice  a  month  /  nowadays  →  빈도·시점 표현",
-      "•  provide  A  with  B  →  A 에게 B 를 제공하다",
-      "•  between  A  and  B  →  A 와 B 사이에",
-      "•  enjoy  +  ~ing  →  ~하는 것을 즐기다"
+      "• used to + 동사원형 → (과거에는) ~하곤 했다",
+      "• depend on one’s mood → 기분에 따라 다르다",
+      "• provide someone with ~ → ~을 제공하다",
+      "• be between A and B → A와 B 사이에 있다",
+      "• after ~ing → ~한 후에"
     ],
     "practice": [
-      "•  보통 한 달에 두 번 영화 봐요.  →  I  normally  watch movies twice a month.",
-      "•  요즘은 액션 영화도 즐겨 봐요.  →  I  also  enjoy  action  movies  nowadays.",
-      "•  친구들과 영화 보러 가는 건 즐거워요.  →  It  is  fun  to  go  see  a  movie  with  my  friends."
+      "• 저는 한 달에 두 번 영화를 봐요. → I watch movies twice a month.",
+      "• 영화는 제게 현실 도피처예요. → Movies are an escape for me.",
+      "• 친구들과 영화 보는 건 즐거워요. → It’s fun to go see a movie with my",
+      "friends."
     ]
   },
   {
     "lesson": 11,
     "title": "A Bookstore | 서점",
-    "english": "After dinner, we went to the bookstore in the neighborhood.\nI go to the bookstore more than twice a week.\nReading relaxes me.\nThe bookstore is between the post office and the bank.\nIt takes me about two days to finish a book.\nWhen I am at a bookstore, I pick a book, wait in line, and then pay for it.\nI don't want to spend too much money on books, so I often read them at the bookstore\nor sometimes I buy a book and return it after reading it.",
-    "korean": "저녁식사 후 우리는 동네에 있는 서점에 갔어요.\n저는 일주일에 두 번 이상 서점에 갑니다.\n독서는 저를 편안하게 해줘요.\n서점은 우체국과 은행 사이에 있어요.\n책 한 권을 읽는 데 이틀 정도 걸립니다.\n서점에 가면 책을 고르고, 줄을 서서 기다린 다음 값을 치릅니다.\n책에 돈을 너무 많이 쓰고 싶지 않아서 서점에서 읽거나, 가끔은 사서 읽은 후\n반품하기도 합니다.",
+    "english": "After dinner, we went to the bookstore in the neighborhood.\nI go to the bookstore more than twice a week.\nReading relaxes me.\nThe bookstore is between the post office and the bank.\nIt takes me about two days to finish a book.\nWhen I am at a bookstore, I pick a book, wait in line, and then pay for it.\nI don't want to spend too much money on books, so I often read them at\nthe bookstore or sometimes I buy a book and return it after reading it.",
+    "korean": "저녁식사 후 우리는 동네에 있는 서점에 갔어요.\n저는 일주일에 두 번 이상 서점에 갑니다.\n독서를 하면 마음이 편안해지죠.\n서점은 우체국과 은행 사이에 있어요.\n책 한 권을 읽는 데 이틀 정도 걸립니다.\n서점에 가면 책을 고르고 줄을 서서 기다리다 돈을 내요.\n책에 돈을 너무 많이 쓰고 싶지 않아서 종종 서점에서 읽거나 때로는 사서 읽은 후\n반품을 하기도 합니다.",
     "grammar": [
-      "•  go  to  the  bookstore  →  서점에 가다",
-      "•  relax(es)  me  →  나를 편안하게 하다(사역 표현)",
-      "•  between  A  and  B  →  A 와 B 사이에",
-      "•  It  takes  +  시간 + to 동사 →  ~하는 데 …가 걸리다"
+      "• more than ~ → ~보다 더 많이",
+      "• relax → 마음을 편안하게 하다",
+      "• between A and B → A와 B 사이에",
+      "• wait in line → 줄을 서서 기다리다",
+      "• spend money on ~ → ~에 돈을 쓰다"
     ],
     "practice": [
-      "•  나는 일주일에 두 번 이상 서점에 가요.  →  I  go  to  the  bookstore  more  than twice a",
-      "week.",
-      "•  독서는 나를 편안하게 해줘요.  →  Reading  relaxes  me.",
-      "•  서점은 우체국과 은행 사이에 있어요.  →  The  bookstore  is  between  the  post  office  and",
-      "the bank."
+      "• 서점에 가는 걸 좋아해요. → I like going to the bookstore.",
+      "• 서점은 우체국과 은행 사이에 있어요. → The bookstore is between the post",
+      "office and the bank.",
+      "• 저는 서점에서 책을 읽거나 가끔 사서 읽어요. → I read or sometimes buy",
+      "books at the bookstore."
     ]
   },
   {
     "lesson": 12,
     "title": "Buying a Gift | 선물 사기",
-    "english": "It was my dad's birthday last week.\nI decided to get him a tie for his birthday gift.\nI went to a department store with Kim.\nI picked a nice one and paid for it with my credit card.\nWhen I got home, I saw that my dad already had the same colored tie.\nI wanted to get a refund and buy a different item, but I didn't have the receipt for the tie.\nI could only exchange the tie for one in a different color.\nI will make sure to keep my receipts from now on.",
-    "korean": "지난주는 아버지 생신이었습니다.\n생신 선물로 넥타이를 드리기로 했어요.\n저는 Kim 과 백화점에 갔습니다.\n괜찮은 것을 골라 신용카드로 결제했어요.\n집에 와 보니 아버지께서 이미 같은 색 넥타이를 갖고 계셨어요.\n환불받아 다른 물건을 사고 싶었지만 영수증이 없었습니다.\n결국 색깔만 다른 넥타이로 교환할 수 있었어요.\n앞으로는 영수증을 꼭 챙기겠습니다.",
+    "english": "It was my dad's birthday last week.\nI decided to get him a tie for his birthday gift.\nI went to a department store with Kim.\nI picked a nice one and paid for it with my credit card.\nWhen I got home, I saw that my dad already had the same colored tie.\nI wanted to get a refund and buy a different item, but I didn't have the\nreceipt for the tie.\nI could only exchange the tie for one in a different color.\nI will make sure to keep my receipts from now on.",
+    "korean": "지난주는 아버지 생신이었습니다.\n생신 선물로 아버지께 넥타이를 사드리기로 했어요.\n저는 Kim과 백화점에 갔죠.\n괜찮은 것을 골라 신용카드로 결제했습니다.\n집에 와서 아버지가 이미 같은 색의 넥타이를 갖고 계시다는 걸 알았어요.\n환불받고 다른 물건을 사고 싶었는데 넥타이 구매 영수증이 없었습니다.\n결국 색깔이 다른 넥타이로 교환할 수밖에 없었죠.\n앞으로는 영수증을 꼭 챙겨야겠습니다.",
     "grammar": [
-      "•  decide  to  동사 →  ~하기로 결정하다",
-      "•  pay  for  A  with  B  →  B 로 A 의 값을 지불하다",
-      "•  get  a  refund  /  exchange  →  환불받다 / 교환하다",
-      "•  make  sure  to  ~  →  반드시 ~하다"
+      "• decide to + 동사원형 → ~하기로 결심하다",
+      "• pay for ~ with + 수단 → ~을 ~으로 결제하다",
+      "• get a refund → 환불받다",
+      "• exchange A for B → A를 B로 교환하다",
+      "• make sure to + 동사원형 → 반드시 ~하다"
     ],
     "practice": [
-      "•  신용카드로 결제했어요.  →  I  paid  for  it  with  my  credit  card.",
-      "•  환불받고 싶었지만 영수증이 없었어요.  →  I  wanted  to  get  a  refund,  but  I  didn't  have",
-      "the receipt.",
-      "•  앞으로는 영수증을 꼭 챙길 거예요.  →  I  will make sure to keep my receipts."
+      "• 저는 아버지 생신 선물을 샀어요. → I bought a birthday gift for my dad.",
+      "• 환불받고 싶었지만 영수증이 없었어요. → I wanted to get a refund but",
+      "didn’t have the receipt.",
+      "• 앞으로는 영수증을 꼭 챙길 거예요. → I’ll make sure to keep my receipts",
+      "from now on."
     ]
   },
   {
     "lesson": 13,
     "title": "Diet | 다이어트",
-    "english": "After buying the gift, I went to the beach with Kim.\nI usually go to the beach three times a month in summer.\nGoing to the beach releases my stress, but I need to lose weight to go to the beach.\nI went to the beach last year and I felt stressed because I was too fat.\nAt that time I decided to jog every day, but I was too busy to do that.\nI decided to lose weight again this year.\nIt takes time to lose weight, so I started to work out two months ago.",
-    "korean": "선물을 산 후 Kim 과 해변에 갔어요.\n보통 여름에는 한 달에 세 번 해변에 갑니다.\n해변은 제 스트레스를 풀어주지만, 해변에 가려면 살을 빼야 합니다.\n작년에 해변에 갔다가 제가 너무 살이 쪄서 스트레스를 받았어요.\n그때 매일 조깅하기로 했지만 너무 바빠서 하지 못했죠.\n올해 다시 살을 빼기로 결심했습니다.\n살을 빼는 데는 시간이 걸려서 두 달 전에 운동을 시작했어요.",
+    "english": "After buying the gift, I went to the beach with Kim.\nI usually go to the beach three times a month in summer.\nGoing to the beach releases my stress, but I need to lose weight to go to\nthe beach.\nI went to the beach last year and I felt stressed because I was too fat.\nAt that time I decided to jog every day, but I was too busy to do that.\nI decided to lose weight again this year.\nIt takes time to lose weight, so I started to work out two months ago.",
+    "korean": "선물을 산 후 Kim과 해변에 갔어요.\n보통 여름에는 한 달에 세 번 해변에 갑니다.\n해변에 가면 스트레스가 풀리지만 해변에 가려면 저는 살을 빼야 합니다.\n작년에는 해변에 갔다가 몸이 너무 뚱뚱해서 스트레스를 받았어요.\n그때 매일 조깅하기로 결심했지만 너무 바빠서 그렇게 할 수가 없었죠.\n올해 다시 살을 빼기로 결심했습니다.\n살을 빼는 데 시간이 걸리기에 두 달 전에 운동을 시작했어요.",
     "grammar": [
-      "•  release  stress  →  스트레스를 풀다",
-      "•  decide  to  동사 →  ~하기로 결심하다",
-      "•  be  too  ~  to  …  →  너무 ~해서 …할 수 없다",
-      "•  work  out  →  운동하다"
+      "• release one’s stress → 스트레스를 풀다",
+      "• be too fat → 너무 뚱뚱하다",
+      "• decide to + 동사원형 → ~하기로 결심하다",
+      "• work out → 운동하다",
+      "• it takes time to + 동사원형 → ~하는 데 시간이 걸리다"
     ],
     "practice": [
-      "•  해변에 가면 스트레스가 풀려요.  →  Going  to  the  beach  releases my stress.",
-      "•  매일 조깅하기로 결심했어요.  →  I  decided  to  jog  every  day.",
-      "•  두 달 전에 운동을 시작했어요.  →  I  started  to  work  out  two  months  ago."
+      "• 저는 해변에 갔어요. → I went to the beach.",
+      "• 저는 살을 빼야 합니다. → I need to lose weight.",
+      "• 저는 두 달 전에 운동을 시작했어요. → I started to work out two months",
+      "ago."
     ]
   },
   {
     "lesson": 14,
     "title": "Walking | 걷기",
-    "english": "When I can't jog, I try to walk as much as possible.\nI recently moved to a house near a subway station.\nMy school is three stops away from my house, but I try to get off one stop ahead of my\nschool and walk from there.\nSince I live close to the station, I don't have to worry about waking up late.\nI think I can watch TV until late at night and then go to sleep.",
-    "korean": "조깅을 못할 때는 가능한 한 많이 걸으려고 합니다.\n최근에 지하철역 근처로 이사했어요.\n학교는 집에서 세 정거장이지만 한 정거장 전에 내려서 걸으려고 해요.\n역과 가까워서 늦게 일어날까 봐 걱정하지 않아도 됩니다.\n이제는 밤늦게까지 TV 를 보고 자도 될 것 같아요.",
+    "english": "When I can’t jog, I try to walk as much as possible.\nI recently moved to a house near a subway station.\nMy school is three stops away from my house, but I try to get off one stop\nahead of my school and walk from there.\nSince I live close to the station, I don’t have to worry about waking up\nlate.\nI think I can watch TV until late at night and then go to sleep.",
+    "korean": "조깅을 못할 때는 가능한 한 많이 걸으려고 노력해요.\n최근에 지하철역 근처에 있는 집으로 이사했습니다.\n학교는 집에서 세 정거장이지만 한 정거장 전에 내려서 걸으려고 해요.\n역 근처에 살기 때문에 늦게 일어날까 봐 걱정할 필요가 없어요.\n이제 밤늦게까지 TV를 보고 자도 될 것 같습니다.",
     "grammar": [
-      "•  as  much  as  possible  →  가능한 한 많이",
-      "•  be  ~  stops  away  →  ~정거장 떨어져 있다",
-      "•  get  off  (one  stop)  ahead  of  ~  →  ~보다 한 정거장 앞에서 내리다",
-      "•  don't  have  to  ~  →  ~할 필요가 없다"
+      "• as much as possible → 가능한 한 많이",
+      "• move to → ~로 이사하다",
+      "• be close to → ~와 가깝다",
+      "• have to + 동사원형 → ~해야 하다",
+      "• stay up late / watch TV until late → 늦게까지 TV 보다"
     ],
     "practice": [
-      "•  가능한 한 많이 걸으려고 해요.  →  I  try  to  walk  as  much  as  possible.",
-      "•  한 정거장 전에 내려서 걸어요.  →  I  get  off  one  stop  ahead  and  walk.",
-      "•  늦게 일어날까 걱정하지 않아도 돼요.  →  I  don't  have  to  worry  about  waking  up  late."
+      "• 조깅을 못할 땐 많이 걸어요. → I try to walk as much as possible when I",
+      "can’t jog.",
+      "• 지하철역 근처에 살아요. → I live near a subway station.",
+      "• 늦게까지 TV 보다 자요. → I watch TV until late at night and then go to",
+      "sleep."
     ]
   },
   {
     "lesson": 15,
     "title": "Watching TV | TV 보기",
-    "english": "I usually watch TV at night after finishing my homework.\nI like watching documentaries and variety shows.\nSometimes I binge-watch my favorite series on weekends.\nWhen I watch TV for too long, I get sleepy and go to bed late.\nRecently, I am trying to limit my screen time and go to sleep before midnight.\nI think watching TV helps me relax, but I need a better routine.",
-    "korean": "보통 숙제를 끝낸 뒤 밤에 TV 를 봅니다.\n다큐멘터리와 예능 프로그램을 좋아해요.\n주말에는 좋아하는 시리즈를 몰아서 보기도 합니다.\nTV 를 너무 오래 보면 졸려서 늦게 잠들어요.\n최근에는 화면 시간을 줄이고 자정 전에 자려고 노력하고 있어요.\nTV 시청은 마음을 편안하게 해 주지만 더 나은 루틴이 필요하다고 생각해요.",
+    "english": "I watch TV for fun.\nI like comedy programs because they make me laugh.\nThey release my stress.\nWhen I am tired or feeling down, I can escape while watching TV.\nWhen I was young, I used to watch TV for 3 or 4 hours a day, but now I\nwatch TV when I eat.\nThere isn't enough time to watch TV.\nI normally watch TV alone, but I watch it with my family on weekends.",
+    "korean": "저는 재미로 TV를 봅니다.\n코미디 프로그램을 좋아하는데 저를 웃게 만들기 때문이죠.\n코미디 프로그램 덕분에 스트레스가 풀려요.\n피곤하거나 기분이 다운될 때는 TV를 보면서 잠시 벗어날 수 있어요.\n어렸을 때는 하루에 서너 시간씩 봤는데 이제는 밥 먹을 때 봐요.\nTV 볼 시간이 별로 없죠.\n주로 혼자 보지만 주말에는 가족과 함께 봅니다.",
     "grammar": [
-      "•  binge-watch  →  몰아보다",
-      "•  limit  +  명사 →  ~을 제한하다",
-      "•  go  to  bed  late  ↔  go  to  bed  early  →  늦게/일찍 자다",
-      "•  help  목적어 (to) 동사 →  ~가 ~하도록 돕다"
+      "• for fun → 재미로, 즐기기 위해",
+      "• make someone laugh → ~를 웃게 하다",
+      "• release one's stress → 스트레스를 풀다",
+      "• used to + 동사원형 → (과거에) ~하곤 했다",
+      "• There isn't enough time to 동사 → ~할 시간이 충분하지 않다"
     ],
     "practice": [
-      "•  주말에 시리즈를 몰아서 봐요.  →  I  binge-watch a series on weekends.",
-      "•  화면 시간을 줄이려고 해요.  →  I  am  trying  to  limit  my  screen  time.",
-      "•  자정 전에 자려고 노력해요.  →  I  try  to  go  to  sleep  before  midnight."
+      "• 저는 재미로 TV를 봐요. → I watch TV for fun.",
+      "• 코미디 프로그램이 저를 웃게 만들어요. → Comedy programs make me",
+      "laugh.",
+      "• 스트레스를 풀고 싶을 때 TV를 봐요. → I watch TV to release my stress.",
+      "• 예전에는 매일 TV를 오래 봤어요. → I used to watch TV for hours every",
+      "day.",
+      "• 요즘엔 주말에 가족과 함께 TV를 봐요. → I watch TV with my family on",
+      "weekends."
     ]
   },
   {
     "lesson": 16,
-    "title": "Breakfast | 아침 식사",
-    "english": "I usually eat breakfast at around 7:30 a.m.\nI make toast and scrambled eggs when I have enough time.\nIf I am in a hurry, I just grab a banana and yogurt.\nEating breakfast helps me focus in the morning.\nOn weekends, I cook a bigger meal and enjoy it slowly.",
-    "korean": "보통 오전 7 시 30 분쯤 아침을 먹습니다.\n시간이 충분하면 토스트와 스크램블 에그를 만들어요.\n바쁠 때는 바나나와 요거트를 집어 들고 나갑니다.\n아침을 먹으면 오전에 집중하는 데 도움이 됩니다.\n주말에는 더 푸짐하게 만들어 천천히 즐깁니다.",
+    "title": "Reading | 독서 1",
+    "english": "My friend Kim hardly watches TV.\nShe says she prefers reading.\nWhen she reads, she gets information and gains new knowledge.\nAnd when she is nervous, reading relaxes her.\nListening to music is also helpful when reading.\nWhen I turn on classical music and read, it makes me feel comfortable and\nit refreshes my mind and body.",
+    "korean": "제 친구 Kim은 TV를 거의 보지 않습니다.\n그애가 그러는데 자기는 독서를 더 좋아한대요.\n그애는 독서하면서 정보를 얻고 새로운 지식을 얻습니다.\n그리고 초조하고 불안할 때는 독서가 마음을 편안하게 해준다고 해요.\n또 음악을 듣는 것도 독서에 도움이 됩니다.\n클래식 음악을 틀어놓고 독서를 하면 편안해지고 몸과 마음이 상쾌해지죠.",
     "grammar": [
-      "•  be  in  a  hurry  →  급하다",
-      "•  grab  +  명사 →  급히 집다",
-      "•  help  목적어 (to) 동사 →  ~가 ~하도록 돕다",
-      "•  enjoy  +  ~ing  →  ~하는 것을 즐기다"
+      "• hardly → 거의 ~하지 않다",
+      "• prefer + -ing / noun → ~을 더 좋아하다",
+      "• gain knowledge → 지식을 얻다",
+      "• relax one’s mind → 마음을 편하게 하다",
+      "• it makes me feel ~ → 나를 ~하게 만든다"
     ],
     "practice": [
-      "•  바쁠 때는 과일만 먹어요.  →  I  just  eat  fruit  when  I  am  in  a  hurry.",
-      "•  아침은 집중에 도움이 돼요.  →  Breakfast  helps  me  focus.",
-      "•  주말엔 천천히 먹는 걸 즐겨요.  →  I  enjoy  eating  slowly  on  weekends."
+      "• 나는 독서를 더 좋아해요. → I prefer reading.",
+      "• 독서는 나를 편하게 해줘요. → Reading relaxes me.",
+      "• 클래식 음악을 들으면서 독서해요. → I read while listening to classical",
+      "music."
     ]
   },
   {
     "lesson": 17,
-    "title": "Commuting | 통학/통근",
-    "english": "I commute by subway on weekdays.\nI try to avoid rush hour because the trains are too crowded.\nI listen to podcasts to make good use of my time.\nSometimes I read short articles on my phone.\nThe ride takes about thirty minutes.",
-    "korean": "평일에는 지하철로 통근합니다.\n지하철이 너무 붐벼서 러시아워는 피하려고 해요.\n시간을 잘 활용하려고 팟캐스트를 듣습니다.\n가끔 휴대폰으로 짧은 글을 읽어요.\n이동 시간은 약 30 분 걸립니다.",
+    "title": "Stress at Work | 직장 내 스트레스",
+    "english": "Kim is thinking of changing jobs.\nHowever, she is not sure what she wants to do.\nHer boss is usually a good person, but it really depends on his mood.\nHe mostly listens to others well, but sometimes he doesn’t even want to\ntalk.\nWhen Kim feels stressed out at work, she meets up with her friends and\nhas a drink.\nChatting with her friends for hours helps release her stress.",
+    "korean": "Kim은 직장을 옮길까 생각 중입니다.\n하지만 자기가 뭘 하고 싶어 하는지 확신이 없죠.\nKim의 상사는 평소에는 좋은 사람이지만 그건 정말 그 사람 기분에 따라 달라요.\n그 상사는 대체로 다른 사람들 이야기를 잘 들어주지만 때로는 아예 말도 하기\n싫어한답니다.\nKim은 회사에서 스트레스를 받으면 친구들을 만나 술을 마셔요.\n친구들과 몇 시간 동안 수다를 떨고 나면 스트레스를 푸는 데 도움이 되죠.",
     "grammar": [
-      "•  commute  by  ~  →  ~로 통근/통학하다",
-      "•  rush  hour  →  출퇴근 혼잡 시간",
-      "•  make  good  use  of  ~  →  ~를 잘 활용하다",
-      "•  take  +  시간 →  ~만큼 시간이 걸리다"
+      "• think of + -ing → ~할까 생각하다",
+      "• depend on → ~에 달려 있다",
+      "• feel stressed out → 스트레스를 받다",
+      "• meet up with → ~를 만나다",
+      "• help + 동사원형 → ~하는 데 도움이 되다"
     ],
     "practice": [
-      "•  지하철로 통근해요.  →  I  commute  by  subway.",
-      "•  러시아워를 피하려고 해요.  →  I  try  to  avoid  rush  hour.",
-      "•  이동 시간은 30 분 걸려요.  →  The  ride  takes about thirty minutes."
+      "• 저는 직장을 옮길까 생각 중이에요. → I’m thinking of changing jobs.",
+      "• 그는 기분에 따라 달라요. → It depends on his mood.",
+      "• 친구들과 수다를 떨면 스트레스가 풀려요. → Chatting with friends helps",
+      "release my stress."
     ]
   },
   {
     "lesson": 18,
-    "title": "Studying at the Library | 도서관 공부",
-    "english": "I study at the library after school.\nThe library is quiet, so I can concentrate better.\nI set a timer for fifty minutes and take a ten-minute break.\nI review my notes and make flashcards.\nStudying at the library keeps me motivated.",
-    "korean": "방과 후에는 도서관에서 공부합니다.\n도서관은 조용해서 더 잘 집중할 수 있어요.\n50 분 타이머를 맞춰 공부하고 10 분 쉬어요.\n노트를 복습하고 플래시카드를 만듭니다.\n도서관에서 공부하면 동기부여가 유지됩니다.",
+    "title": "Releasing Stress | 스트레스 풀기",
+    "english": "When Kim and I are depressed, we go to an amusement park.\nLast week, Kim’s boss stressed her out, so we went to an amusement\npark.\nIt was really fun.\nI think it’s very important to release stress when you are stressed out.\nWhen I’m stressed out, I clean up my room while listening to my favorite\nmusic on my smartphone.\nI used to listen to music on my MP3 player, but I don’t have to carry it\naround nowadays.\nIt is convenient to listen to music on my phone.",
+    "korean": "Kim과 저는 우울할 때 놀이공원에 갑니다.\n지난주에 Kim이 상사에게 스트레스를 받아 우리는 놀이공원에 갔어요.\n정말 재미있었죠.\n스트레스를 받을 때는 풀어주는 게 매우 중요하다고 생각해요.\n저는 스트레스를 받으면 제 방을 청소합니다.\n동시에 스마트폰으로 가장 좋아하는 음악을 들으면서요.\n예전에는 MP3 플레이어로 음악을 듣곤 했지만 요즘은 MP3 플레이어를 들고 다닐\n필요가 없죠.\n휴대전화로 음악을 듣는 것이 편리합니다.",
     "grammar": [
-      "•  concentrate  (better)  →  더 잘 집중하다",
-      "•  set  a  timer  for  ~  →  타이머를 ~로 설정하다",
-      "•  review  notes  →  노트를 복습하다",
-      "•  keep  목적어 + 형용사 →  ~를 ~한 상태로 유지하다"
+      "• be stressed out → 스트레스를 받다",
+      "• release stress → 스트레스를 풀다",
+      "• be depressed → 우울하다",
+      "• used to + 동사원형 → (과거에는) ~하곤 했다",
+      "• it is convenient to + 동사 → ~하는 것이 편리하다"
     ],
     "practice": [
-      "•  조용해서 집중이 잘돼요.  →  It's  quiet,  so  I  can  concentrate.",
-      "•  타이머를 50 분으로 맞춰요.  →  I  set  a  timer for fifty minutes.",
-      "•  플래시카드를 만들어요.  →  I  make  flashcards."
+      "• 우리는 우울할 때 놀이공원에 가요. → We go to an amusement park when",
+      "we feel depressed.",
+      "• 스트레스를 받을 때 청소를 해요. → I clean up my room when I’m",
+      "stressed out.",
+      "• 휴대전화로 음악 듣는 게 편리해요. → It’s convenient to listen to music on",
+      "my phone."
     ]
   },
   {
     "lesson": 19,
-    "title": "Cooking Dinner | 저녁 요리",
-    "english": "I cook dinner at home most evenings.\nI check the fridge and plan simple dishes.\nI chop vegetables and boil pasta.\nI try to reduce salt and use more herbs.\nCooking at home saves money and is healthier.",
-    "korean": "대부분 저녁에는 집에서 요리합니다.\n냉장고를 확인하고 간단한 메뉴를 계획해요.\n야채를 썰고 파스타를 삶습니다.\n소금은 줄이고 허브를 더 쓰려고 합니다.\n집에서 요리하면 돈을 절약하고 더 건강해요.",
+    "title": "Using My Smartphone | 스마트폰 활용",
+    "english": "I use my smartphone functions in various ways.\nFirst, I listen to music on my smartphone.\nI also check my emails and use the phone for making calls.\nI often send text messages, too.\nWhen a person doesn’t answer the phone, I just leave a voice mail.\nI think it is rude if you don’t return a call.\nI was talking on the phone with Kim last night, and I hung up on her.\nI was so sleepy, but she kept on talking and it tired me.\nI couldn’t stand it anymore.\nI will tell her not to call me so late at night anymore.",
+    "korean": "저는 제 스마트폰 기능을 다양하게 활용해요.\n먼저 스마트폰으로 음악을 듣습니다.\n또한 이메일을 확인하기도 하고 전화 걸 때에도 써요.\n문자 메시지도 자주 보냅니다.\n상대방이 전화를 받지 않으면 음성 메시지를 남기죠.\n응답 전화를 하지 않는다면 그건 무례한 거라고 생각합니다.\n어젯밤에 Kim과 통화하다 제가 전화를 끊어버렸어요.\n저는 무척 졸렸는데 Kim이 계속 말을 해서 피곤해졌죠.\n더 이상 참을 수가 없었습니다.\n이제는 밤에 너무 늦게 전화하지 말라고 해야겠어요.",
     "grammar": [
-      "•  plan  +  명사 →  ~을 계획하다",
-      "•  chop  /  boil  →  썰다 / 삶다",
-      "•  try  to  동사 →  ~하려고 노력하다",
-      "•  save  money  →  돈을 절약하다"
+      "• in various ways → 다양한 방법으로",
+      "• leave a voice mail → 음성 메시지를 남기다",
+      "• return a call → 전화를 다시 걸다",
+      "• hang up on someone → ~의 전화를 끊다",
+      "• can’t stand it → 참을 수 없다"
     ],
     "practice": [
-      "•  간단한 메뉴를 계획해요.  →  I  plan  simple  dishes.",
-      "•  허브를 더 써요.  →  I  use  more  herbs.",
-      "•  집에서 요리하면 건강해요.  →  Cooking  at  home  is  healthier."
+      "• 저는 스마트폰으로 음악을 들어요. → I listen to music on my smartphone.",
+      "• 그는 제 전화를 받지 않았어요. → He didn’t answer my call.",
+      "• 어젯밤에 너무 졸려서 전화를 끊었어요. → I hung up the phone because I",
+      "was so sleepy."
     ]
   },
   {
     "lesson": 20,
-    "title": "Weekend Trip | 주말 여행",
-    "english": "I took a short trip last weekend.\nI booked a guesthouse near the beach.\nI walked along the shore and took photos.\nI tried local food at a small restaurant.\nThe trip refreshed my mind and body.",
-    "korean": "지난주에 짧은 여행을 다녀왔습니다.\n해변 근처에 게스트하우스를 예약했어요.\n해안을 따라 걸으며 사진을 찍었습니다.\n작은 식당에서 현지 음식을 맛봤어요.\n여행이 몸과 마음을 상쾌하게 해 주었어요.",
+    "title": "Concerts | 콘서트",
+    "english": "I like listening to music and I love going to concerts.\nThe last concert I went to was a year ago and it was my favorite band.\nThe concert hall was far from my house.\nIt took an hour by bus to get there.\nWe arrived at the concert hall at 7 p.m.\nThe concert hall was crowded.\nWe grabbed something to eat and enjoyed the concert.\nIt is enjoyable to go to concerts. I can have a great time with my friends\nthere.",
+    "korean": "저는 음악 듣는 것을 좋아해서 콘서트 가는 것도 아주 좋아합니다.\n마지막으로 간 콘서트는 일 년 전 제가 가장 좋아하는 밴드의 콘서트였어요.\n콘서트장이 집에서 멀었죠. 거기에 가는 데 버스로 한 시간 걸렸어요.\n우리는 콘서트장에 오후 7시에 도착했습니다.\n콘서트장은 사람이 많아 북적거렸어요.\n우리는 간단히 먹고 콘서트를 즐겼죠.\n콘서트에 가는 것은 즐겁습니다. 그곳에서 친구들과 좋은 시간을 보낼 수 있어요.",
     "grammar": [
-      "•  book  +  숙소 →  숙소를 예약하다",
-      "•  walk  along  ~  →  ~을 따라 걷다",
-      "•  try  local  food  →  현지 음식을 맛보다",
-      "•  refresh  mind  and body  →  심신을 상쾌하게 하다"
+      "• enjoyable → 즐거운, 재미있는",
+      "• be crowded → 붐비다",
+      "• grab something to eat → 간단히 먹다",
+      "• It takes 시간 + to 동사 → ~하는 데 … 걸리다",
+      "• have a great time → 좋은 시간을 보내다"
     ],
     "practice": [
-      "•  해변 근처 숙소를 예약했어요.  →  I  booked  a  place  near  the  beach.",
-      "•  해안을 따라 걸었어요.  →  I  walked  along  the  shore.",
-      "•  여행이 상쾌하게 해줬어요.  →  The  trip  refreshed  me."
+      "• 저는 콘서트 가는 걸 좋아해요. → I love going to concerts.",
+      "• 콘서트장에 사람이 많았어요. → The concert hall was crowded.",
+      "• 친구들과 좋은 시간을 보냈어요. → I had a great time with my friends."
     ]
   },
   {
     "lesson": 21,
-    "title": "Meeting Friends | 친구 만나기",
-    "english": "I met my friends at a café after work.\nWe shared news about our week.\nWe talked about movies and hobbies.\nTime passed quickly while we were chatting.\nWe promised to meet again next month.",
-    "korean": "퇴근 후 카페에서 친구들을 만났습니다.\n서로 한 주 동안 있었던 일을 나눴어요.\n영화와 취미에 대해 이야기했습니다.\n수다를 떨다 보니 시간이 금방 지나갔어요.\n다음 달에 또 만나기로 약속했습니다.",
+    "title": "Chatting with My Friends | 친구들과의 수다",
+    "english": "I like spending time with Kim on weekends.\nWhen I am stressed out during the week, I get together with friends on\nweekends.\nIt is fun to chat with my friends.\nThe coffee shop we go to is between a restaurant and a hair salon.\nWhen I go to the coffee shop, I always order a latte.\nI feel comfortable when I sit at a coffee shop and chat with my friends.",
+    "korean": "저는 주말에 Kim과 시간 보내는 것을 좋아합니다.\n주중에 스트레스를 받으면 주말에 친구들과 만나요.\n친구들과 수다 떠는 건 즐거워요.\n우리가 가는 커피숍은 식당과 미용실 사이에 있어요.\n커피숍에 가면 늘 라떼를 시킵니다.\n커피숍에 앉아서 친구들과 수다를 떨 때 마음이 편안해져요.",
     "grammar": [
-      "•  share  news  →  소식을 나누다",
-      "•  talk  about  ~  →  ~에 대해 이야기하다",
-      "•  time  passes  quickly  →  시간이 빨리 지나가다",
-      "•  promise  to  동사 →  ~하기로 약속하다"
+      "• spend time with ~ → ~와 시간을 보내다",
+      "• get together with → ~와 만나다",
+      "• chat with → ~와 수다 떨다",
+      "• be between A and B → A와 B 사이에 있다",
+      "• order a latte → 라떼를 주문하다"
     ],
     "practice": [
-      "•  친구들과 소식을 나눴어요.  →  I  shared  news  with  my  friends.",
-      "•  영화에 대해 이야기했어요.  →  We  talked  about  movies.",
-      "•  다음 달에 또 만나기로 했어요.  →  We  promised  to  meet  again  next  month."
+      "• 저는 주말에 Kim과 시간 보내요. → I like spending time with Kim on",
+      "weekends.",
+      "• 친구들과 수다 떠는 게 즐거워요. → It’s fun to chat with my friends.",
+      "• 커피숍에 앉으면 편안해져요. → I feel comfortable when I sit at a coffee",
+      "shop."
     ]
   },
   {
     "lesson": 22,
-    "title": "Phone Call | 전화하기",
-    "english": "I made a phone call to my cousin last night.\nWe discussed our plans for the holidays.\nThe connection was unstable at first.\nI moved closer to the window to get better reception.\nWe finally decided to travel together.",
-    "korean": "어젯밤 사촌에게 전화를 걸었습니다.\n휴일 계획에 대해 상의했어요.\n처음에는 연결이 불안정했어요.\n수신이 잘 되도록 창가 쪽으로 이동했습니다.\n결국 함께 여행하기로 결정했어요.",
+    "title": "My Friend | 내 친구",
+    "english": "I first met my friend Kim when I was in middle school.\nWe were not best friends at that time, but after we got into the same\ncollege, we became close.\nWe usually arrived at school at 10 in the morning.\nAfter class, we used to meet up and drink coffee from a vending machine\nbefore lunch.\nI used to listen to music on my cell phone during class.\nOn the other hand, Kim was a good student.",
+    "korean": "전 중학교 다닐 때 친구 Kim과 처음 만났습니다.\n그때는 단짝이 아니었지만 같은 대학에 들어가고 나서 친해졌어요.\n우리는 보통 아침 10시에 학교에 도착했습니다.\n수업 후 점심 전에 만나 자판기 커피를 마시곤 했습니다.\n저는 수업 시간에 휴대전화로 음악을 듣곤 했어요.\n반면에 Kim은 모범생이었습니다.",
     "grammar": [
-      "•  make  a  phone  call  →  전화하다",
-      "•  unstable  connection  →  불안정한 연결",
-      "•  move  closer  to  ~  →  ~에 더 가까이 이동하다",
-      "•  decide to 동사 →  ~하기로 결정하다"
+      "• meet someone → ~를 만나다",
+      "• be close → 친하다",
+      "• used to + 동사 → ~하곤 했다",
+      "• on the other hand → 반면에",
+      "• a good student → 모범생"
     ],
     "practice": [
-      "•  전화 연결이 불안정했어요.  →  The  connection  was  unstable.",
-      "•  창가로 옮겼어요.  →  I  moved  closer  to  the  window.",
-      "•  함께 여행하기로 결정했어요.  →  We  decided  to  travel  together."
+      "• 저는 중학교 때 친구를 만났어요. → I met my friend in middle school.",
+      "• 우리는 같은 대학에 다녔어요. → We went to the same college.",
+      "• Kim은 모범생이었어요. → Kim was a good student."
     ]
   },
   {
     "lesson": 23,
-    "title": "Weather | 날씨",
-    "english": "It rained heavily in the morning.\nI brought an umbrella just in case.\nIn the afternoon, the sky cleared up.\nThe air felt cooler and more comfortable.\nI like walking after the rain.",
-    "korean": "아침에 비가 많이 왔습니다.\n만약을 대비해 우산을 챙겼어요.\n오후에는 하늘이 개었습니다.\n공기가 더 시원하고 쾌적하게 느껴졌어요.\n저는 비 온 뒤에 걷는 것을 좋아합니다.",
+    "title": "Getting a Job | 취업",
+    "english": "Both Kim’s goal and my goal was to get a bachelor’s degree and then\nget a job.\nKim has already graduated and gotten a great job.\nBut she leaves her house at 6 a.m. and leaves the office at 10 p.m.\nI am satisfied with the fact that I am still a student now.\nI think it will take time to get a great job.\nIn order to get a great job, I watch TV less than before and I try to read a\nlot more.",
+    "korean": "Kim의 목표와 저의 목표는 둘 다 학사 학위를 받고 나서 취업하는 것이었어요.\nKim은 이미 졸업해서 좋은 직장에 취업했습니다.\n하지만 그녀는 아침 6시에 집을 나서서 밤 10시에 퇴근해요.\n저는 아직 학생이라는 사실에 만족합니다.\n좋은 직장을 구하는 데에는 시간이 걸릴 것 같아요.\n좋은 직장을 구하기 위해 저는 전보다 TV를 적게 보고 독서를 더 많이 하려고\n합니다.",
     "grammar": [
-      "•  rain  heavily  →  비가 많이 오다",
-      "•  just  in  case  →  만약을 대비하여",
-      "•  clear  up  →  맑아지다",
-      "•  feel  +  형용사 →  ~하게 느껴지다"
+      "• get a job → 취업하다",
+      "• be satisfied with → ~에 만족하다",
+      "• take time to + 동사 → ~하는 데 시간이 걸리다",
+      "• less than before → 전보다 덜",
+      "• in order to → ~하기 위해"
     ],
     "practice": [
-      "•  우산을 챙겼어요.  →  I  brought  an  umbrella.",
-      "•  오후에 하늘이 개었어요.  →  The  sky  cleared  up  in  the  afternoon.",
-      "•  비 온 뒤 걷는 걸 좋아해요.  →  I  like  walking  after  the  rain."
+      "• 좋은 직장을 구하고 싶어요. → I want to get a great job.",
+      "• 저는 아직 학생이라 만족해요. → I am satisfied with being a student.",
+      "• 좋은 직장을 구하려면 시간이 걸려요. → It takes time to get a great job."
     ]
   },
   {
     "lesson": 24,
-    "title": "Cleaning My Room | 방 정리",
-    "english": "I cleaned my room on Saturday morning.\nI opened the windows to let fresh air in.\nI organized my desk and threw away old papers.\nI wiped the floor and vacuumed the carpet.\nThe room looked brighter when I finished.",
-    "korean": "토요일 아침에 방을 청소했습니다.\n신선한 공기가 들어오도록 창문을 열었어요.\n책상을 정리하고 오래된 종이를 버렸습니다.\n바닥을 닦고 카펫을 청소기로 청소했어요.\n끝났을 때 방이 더 밝아 보였습니다.",
+    "title": "Reading 2 | 독서 2",
+    "english": "I read in my room.\nI think reading is a good habit.\nI can learn many lessons from it.\nIt also makes me feel comfortable.\nI started to read a new book last night.\nWhen I finished the book, it was 3 a.m.\nI wanted to sleep, but I just couldn’t fall asleep.\nI turned on the TV and watched my favorite comedy show.\nI ended up going to bed at almost 5 a.m.",
+    "korean": "저는 제 방에서 책을 읽습니다.\n독서는 좋은 습관인 것 같아요.\n독서에서 많은 교훈을 배울 수 있습니다.\n독서는 저를 편안하게 해줍니다.\n어젯밤에 새로운 책을 읽기 시작했어요.\n책을 다 읽었을 때는 새벽 3시였습니다.\n자고 싶었지만 잠이 들지 않았어요.\nTV를 켜고 제가 가장 좋아하는 코미디 프로그램을 봤습니다.\n결국 새벽 5시쯤 잠이 들었어요.",
     "grammar": [
-      "•  let  A  in  →  A 가 들어오게 하다",
-      "•  throw  away  →  버리다",
-      "•  wipe  /  vacuum  →  닦다 / 청소기로 청소하다",
-      "•  look  +  형용사 →  ~하게 보이다"
+      "• a good habit → 좋은 습관",
+      "• learn lessons from → ~에서 교훈을 얻다",
+      "• make someone feel → ~를 ~하게 하다",
+      "• end up ~ing → 결국 ~하게 되다",
+      "• fall asleep → 잠들다"
     ],
     "practice": [
-      "•  창문을 열어 공기를 들였어요.  →  I  opened  the  windows  to  let  fresh  air  in.",
-      "•  오래된 종이를 버렸어요.  →  I  threw  away  old  papers.",
-      "•  방이 더 밝아 보였어요.  →  The  room  looked  brighter."
+      "• 저는 매일 책을 읽어요. → I read books every day.",
+      "• 독서는 저를 편안하게 해줘요. → Reading makes me feel comfortable.",
+      "• 결국 새벽에 잠들었어요. → I ended up falling asleep in the early morning."
     ]
   },
   {
     "lesson": 25,
-    "title": "Online Shopping | 온라인 쇼핑",
-    "english": "I bought a pair of shoes online.\nI compared prices on several websites.\nI read reviews to check the size and quality.\nI used a coupon code at checkout.\nThe shoes will arrive in three days.",
-    "korean": "온라인으로 신발을 한 켤레 샀습니다.\n여러 웹사이트에서 가격을 비교했어요.\n사이즈와 품질을 확인하려고 리뷰를 읽었습니다.\n결제할 때 쿠폰 코드를 사용했어요.\n신발은 3 일 뒤에 도착할 예정입니다.",
+    "title": "A Tiring Day | 피곤한 하루",
+    "english": "The subway station is a couple of blocks away from my house.\nIt takes 40 minutes by subway to get to school.\nI was so tired this morning.\nThe subway was crowded.\nLuckily, I found a seat and slept through the whole ride.\nI was so sleepy during class that I couldn’t stand it.\nI am good at texting, but I was too tired to send text messages to my\nfriends.\nI came back home and went to bed.",
+    "korean": "지하철역은 저희 집에서 몇 블록 떨어져 있습니다.\n학교까지 지하철로 가는 데 40분이 걸립니다.\n오늘 아침에는 너무 피곤했어요.\n지하철은 사람들로 붐볐어요.\n다행히 자리를 찾아 타는 동안 내내 잠을 잤습니다.\n수업 시간에는 너무 졸려서 참을 수가 없었어요.\n저는 문자 메시지를 잘 보내지만 너무 피곤해서 친구들에게 문자도 못 보냈어요.\n집에 와서 잠자리에 들었습니다.",
     "grammar": [
-      "•  compare  prices  →  가격을 비교하다",
-      "•  read  reviews  →  리뷰를 읽다",
-      "•  use  a  coupon  code  →  쿠폰 코드를 쓰다",
-      "•  arrive  in  +  기간 →  ~후에 도착하다"
+      "• be a couple of blocks away → 몇 블록 떨어져 있다",
+      "• sleep through → ~동안 계속 자다",
+      "• be too tired to → 너무 피곤해서 ~할 수 없다",
+      "• be crowded → 붐비다",
+      "• it takes 시간 to + 동사 → ~하는 데 … 걸리다"
     ],
     "practice": [
-      "•  가격을 비교했어요.  →  I  compared  prices.",
-      "•  리뷰를 읽었어요.  →  I  read  reviews.",
-      "•  3 일 후 도착해요.  →  It  will  arrive  in  three  days."
+      "• 저는 아침에 너무 피곤했어요. → I was so tired this morning.",
+      "• 지하철로 학교 가요. → I go to school by subway.",
+      "• 너무 피곤해서 문자도 못 보냈어요. → I was too tired to send messages."
     ]
   },
   {
     "lesson": 26,
-    "title": "Exercise Plan | 운동 계획",
-    "english": "I made a new exercise plan this month.\nI will jog on Mondays and Thursdays.\nI will do home workouts on the other days.\nI keep a simple record of my workouts.\nTracking my progress keeps me consistent.",
-    "korean": "이달에 새로운 운동 계획을 세웠습니다.\n월요일과 목요일에는 조깅을 할 거예요.\n다른 날에는 홈트레이닝을 할 겁니다.\n운동을 간단히 기록해 둡니다.\n기록을 하면 꾸준함을 유지할 수 있어요.",
+    "title": "Surfing the Internet | 인터넷 서핑",
+    "english": "I woke up in the middle of the night.\nI turned on the computer and surfed the Internet.\nI surf the Internet in the middle of the night quite often.\nI found a volunteering website.\nOne of the volunteer opportunities was cooking for disabled people.\nThe last time I cooked was last weekend when I made instant noodles, but\nI am good at cooking.\nI signed up for the volunteer position and I will begin next Friday.\nIt is meaningful to help people with a disability.",
+    "korean": "한밤중에 잠이 깼어요.\n컴퓨터를 켜고 인터넷 서핑을 했어요.\n저는 한밤중에 인터넷 서핑을 꽤 자주 합니다.\n봉사활동 웹사이트를 찾아냈어요.\n자원봉사 중 하나가 장애가 있는 분들을 위해 요리하는 일이었어요.\n마지막으로 요리한 것은 지난 주말 라면을 끓였을 때였지만 저는 요리를 잘해요.\n자원봉사에 등록했고 다음 주 금요일에 시작할 거예요.\n장애가 있는 분들을 돕는 일은 뜻깊습니다.",
     "grammar": [
-      "•  make  a  plan  →  계획을 세우다",
-      "•  keep  a  record  →  기록하다",
-      "•  the  other  days  →  다른 날들",
-      "•  keep  목적어 + 형용사 →  ~를 ~하게 유지하다"
+      "• surf the Internet → 인터넷을 하다",
+      "• wake up in the middle of the night → 한밤중에 잠이 깨다",
+      "• be good at → ~을 잘하다",
+      "• sign up for → ~에 등록하다",
+      "• it is meaningful to → ~하는 것은 의미가 있다"
     ],
     "practice": [
-      "•  새 운동 계획을 세웠어요.  →  I  made  a  new  exercise  plan.",
-      "•  운동을 기록해요.  →  I  keep  a  record  of  my  workouts.",
-      "•  기록이 꾸준함을 유지하게 해요.  →  Tracking  keeps  me  consistent."
+      "• 저는 한밤중에 잠이 깼어요. → I woke up in the middle of the night.",
+      "• 저는 인터넷 서핑을 자주 해요. → I surf the Internet quite often.",
+      "• 자원봉사는 뜻깊어요. → It’s meaningful to volunteer."
     ]
   },
   {
     "lesson": 27,
-    "title": "Learning English | 영어 학습",
-    "english": "I practice speaking English for one minute a day.\nI repeat key sentences until I feel confident.\nI record my voice and listen to it.\nI check new words and add them to my list.\nSmall daily practice makes a big difference.",
-    "korean": "매일 1 분씩 영어",
+    "title": "Go Clubbing | 나이트클럽 가기",
+    "english": "I went to a club last Friday night.\nI used to go to clubs quite often.\nHowever, as I got older, it was not fun anymore.\nI used to go there three times a month.\nClubbing with friends was so much fun, but when I got back home, I was\ntoo tired.\nNowadays, it is more fun for me to chat with friends while having a drink.",
+    "korean": "지난 금요일 밤에 나이트클럽에 갔어요.\n예전에는 나이트클럽에 꽤 자주 가곤 했어요.\n하지만 나이가 들면서 더 이상 재미있지 않았어요.\n그땐 한 달에 세 번은 갔습니다.\n친구들과 나이트클럽에 가는 것은 정말 즐거웠지만, 집에 오면 너무 피곤했어요.\n요즘에는 술 한잔하며 친구들과 수다 떠는 게 더 즐겁습니다.",
     "grammar": [
-      "•  repeat  until  ~  →  ~할 때까지 반복하다",
-      "•  record  my  voice  →  내 목소리를 녹음하다",
-      "•  add  A  to  B  →  A 를 B 에 추가하다",
-      "•  make  a  difference  →  변화를 만들다"
+      "• go clubbing → 나이트클럽에 가다",
+      "• used to + 동사 → ~하곤 했다",
+      "• as I got older → 나이가 들면서",
+      "• while + ~ing → ~하는 동안",
+      "• be too tired to → 너무 피곤해서 ~할 수 없다"
     ],
     "practice": [
-      "를 연습합니다.",
-      "자신감이 들 때까지 핵심 문장을 반복합니다.",
-      "제 목소리를 녹음해서 들어봅니다.",
-      "새로운 단어를 확인해 목록에 추가합니다.",
-      "작은 매일의 연습이 큰 변화를 만듭니다."
+      "• 저는 지난 금요일에 클럽에 갔어요. → I went to a club last Friday night.",
+      "• 예전에는 자주 갔어요. → I used to go there quite often.",
+      "• 요즘엔 친구들과 술 한잔하며 이야기하는 게 좋아요. → I enjoy chatting with",
+      "my friends while having a drink."
     ]
   },
   {
     "lesson": 28,
-    "title": "At the Bank | 은행에서",
-    "english": "I went to the bank to open a new account.\nI filled out a form and showed my ID.\nThe clerk explained the fees and interest rates.\nI deposited some cash into the account.\nThe whole process was quick and easy.",
-    "korean": "새 계좌를 만들기 위해 은행에 갔습니다.\n양식을 작성하고 신분증을 보여주었습니다.\n직원이 수수료와 이자율을 설명해 주었습니다.\n현금을 계좌에 입금했습니다.\n전체 과정이 빠르고 쉬웠습니다.",
+    "title": "Spending Time with Friends | 친구들과의 시간",
+    "english": "These days, there isn't enough time to hang out with my friends.\nEveryone's schedule is tight, so we meet up once during the week or on\nweekends.\nWe normally go to a coffee shop or have a drink.\nI don't love talking, but I am a good listener.\nHowever, it depends on the person.\nI don't want to listen to a person who only talks about themselves.",
+    "korean": "요즘에는 친구들과 어울려 다닐 시간이 별로 없습니다.\n다들 스케줄이 빡빡해서 주중이나 주말에 한 번 만나요.\n우리는 보통 커피숍에 가거나 술을 마십니다.\n저는 말하는 것을 좋아하지 않지만 남의 이야기는 잘 들어줍니다.\n하지만 그건 사람에 따라 달라요.\n자기 이야기만 하는 사람의 말은 듣고 싶지 않아요.",
     "grammar": [
-      "•  open  an  account  →  계좌를 개설하다",
-      "•  fill  out  a  form  →  양식을 작성하다",
-      "•  explain  A  to  B  →  B 에게 A 를 설명하다",
-      "•  deposit  cash  →  현금을 입금하다"
+      "• hang out with friends → 친구들과 어울리다",
+      "• be tight (schedule) → 일정이 빡빡하다",
+      "• it depends on → ~에 따라 다르다",
+      "• talk about oneself → 자기 이야기를 하다",
+      "• be a good listener → 잘 들어주는 사람이다"
     ],
     "practice": [
-      "•  계좌를 개설했어요.  →  I  opened  an  account.",
-      "•  양식을 작성했어요.  →  I  filled  out  a  form.",
-      "•  현금을 입금했어요.  →  I  deposited  cash."
+      "• 저는 친구들과 어울릴 시간이 별로 없어요. → I don’t have much time to",
+      "hang out with my friends.",
+      "• 주중이나 주말에 한 번 만나요. → We meet once during the week or on",
+      "weekends.",
+      "• 자기 이야기만 하는 사람은 싫어요. → I don’t like people who only talk",
+      "about themselves."
     ]
   },
   {
     "lesson": 29,
-    "title": "Future Plans | 앞으로의 계획",
-    "english": "I plan to take an English speaking course next month.\nI want to practice with a study group.\nI will set clear goals for each week.\nI will track my progress with a checklist.\nI believe steady effort will lead to success.",
-    "korean": "다음 달에 영어 스피킹 강좌를 들을 계획입니다.\n스터디 그룹과 함께 연습하고 싶어요.\n매주 명확한 목표를 세울 것입니다.\n체크리스트로 진행 상황을 기록하겠습니다.\n꾸준한 노력이 성공으로 이어질 거라 믿습니다.",
+    "title": "My Friend’s Birthday | 친구의 생일",
+    "english": "It was Kim’s birthday yesterday.\nWe had a birthday party at a restaurant in the neighborhood.\nThe restaurant is a 10-minute walk from my house.\nI gave Kim a scented candle for her birthday present.\nShe was satisfied with the present, and I was satisfied with my choice.\nWe spent about three hours at the restaurant.\nWe had a great time.",
+    "korean": "어제는 Kim의 생일이었어요.\n우리는 동네 식당에서 생일 파티를 했어요.\n그 식당은 우리 집에서 걸어서 10분 거리입니다.\n저는 Kim에게 생일 선물로 향초를 줬어요.\nKim은 선물에 만족했고 저도 제 선택에 만족했어요.\n우리는 세 시간 정도 식당에 있었고 즐거운 시간을 보냈어요.",
     "grammar": [
-      "•  plan  to  동사 →  ~할 계획이다",
-      "•  practice  with  ~  →  ~와 함께 연습하다",
-      "•  set  goals  →  목표를 세우다",
-      "•  lead  to  →  ~로 이어지다"
+      "• birthday present → 생일 선물",
+      "• be satisfied with → ~에 만족하다",
+      "• a 10-minute walk → 도보로 10분 거리",
+      "• spend time → 시간을 보내다",
+      "• have a great time → 즐거운 시간을 보내다"
     ],
     "practice": [
-      "•  다음 달 강좌를 들을 계획이에요.  →  I  plan to take a course next month.",
-      "•  스터디와 함께 연습하고 싶어요.  →  I  want  to  practice  with  a  study  group.",
-      "•  체크리스트로 진행을 기록할게요.  →  I  will  track  my  progress  with  a  checklist."
+      "• 어제는 Kim의 생일이었어요. → It was Kim’s birthday yesterday.",
+      "• 향초를 선물했어요. → I gave her a scented candle.",
+      "• 우리는 즐거운 시간을 보냈어요. → We had a great time."
     ]
   },
   {
     "lesson": 30,
-    "title": "Reflection | 회고",
-    "english": "I looked back on my month of practice.\nI noticed small but steady progress.\nI feel more comfortable speaking about daily topics.\nI will keep the habit and improve step by step.\nI am proud of my effort this month.",
-    "korean": "한 달간의 연습을 돌아보았습니다.\n작지만 꾸준한 발전을 확인했어요.\n일상 주제에 대해 말하는 것이 더 편해졌습니다.\n이 습관을 유지하며 한 걸음씩 나아가겠습니다.\n이번 달의 노력에 스스로가 자랑스럽습니다.",
+    "title": "A Conversation with a Friend | 친구와의 대화",
+    "english": "On the way back home, Kim and I went to the park behind her house.\nWe sat on a bench and had a talk.\nI was a bit tired, but I listened to Kim.\nShe talked about some issues with her boss.\nI told her that it is complicated to solve these problems, but it wouldn’t\ntake too much time.\nWhen I got home, it was 11:30 p.m.\nI got ready for bed and went to sleep at midnight.",
+    "korean": "집에 오는 길에 Kim과 저는 Kim의 집 뒤 공원에 갔습니다.\n우리는 벤치에 앉아 대화를 나눴습니다.\n저는 조금 피곤했지만 Kim의 이야기를 들어줬습니다.\nKim은 직장 상사와의 문제에 대해 이야기했어요.\n저는 그런 문제는 복잡하지만 오래 걸리지는 않을 거라고 말했습니다.\n집에 도착했을 때는 밤 11시 30분이었어요.\n잘 준비를 하고 자정에 잠이 들었습니다.",
     "grammar": [
-      "•  look  back  on  ~  →  ~을 돌아보다",
-      "•  feel  comfortable  ~ing  →  ~하는 것이 편하다",
-      "•  keep  the  habit  →  습관을 유지하다",
-      "•  step  by  step  →  한 걸음씩"
+      "• on the way back home → 집에 오는 길에",
+      "• have a talk → 대화를 나누다",
+      "• talk about → ~에 대해 이야기하다",
+      "• get ready for bed → 잠잘 준비를 하다",
+      "• go to sleep → 잠이 들다"
     ],
     "practice": [
-      "•  이번 달을 돌아봤어요.  →  I  looked  back  on  this  month.",
-      "•  더 편해졌어요.  →  I  feel  more  comfortable  now.",
-      "•  습관을 유지하며 나아갈게요.  →  I  will  keep  the  habit  and  move  step  by  step."
+      "• 우리는 공원 벤치에 앉아 이야기했어요. → We sat on a bench and had a",
+      "talk.",
+      "• Kim은 상사 문제에 대해 얘기했어요. → Kim talked about issues with her",
+      "boss.",
+      "• 저는 자정에 잠이 들었어요. → I went to sleep at midnight."
     ]
   }
 ]
