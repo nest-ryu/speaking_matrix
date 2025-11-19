@@ -6,7 +6,6 @@
 텍스트·오디오·PDF 학습지 형태로 제공하는 간단한 Streamlit 앱입니다.  
 로컬 PC나 Pydroid3에서 바로 실행할 수 있습니다.
 
-https://speakingmatrix-1minute.streamlit.app/
 
 
 ## 📁 폴더 구조
@@ -56,6 +55,7 @@ streamlit run speaking_matrix.py
 PDF 생성 시 reportlab을 사용하며, 한글 폰트 깨짐 방지를 위해 기본 폰트는 HYSMyeongJo-Medium을 권장합니다.
 audio/ 폴더 안에 오디오 파일이 없을 경우, 앱에서 자동으로 경고 메시지를 표시합니다.
 make_lessons_json.py 실행 후 생성된 lessons.json은 speaking_matrix.py에서 자동으로 불러옵니다.
+
 
 
 
